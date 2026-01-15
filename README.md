@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Shani Gupta.
 **BTech (Biotech) 🎓 || Python 🐍 || AI/ML 🤖 || Bioinformatics 🧬 || Research  🧪 || FullStack Developer 👨🏻‍💻|| JavaScript 🌐 || Nextjs 💱 || MongoDB 📊**
 
 Email Me 👉 ✉️ **shanigupta8282com** For Collaboration/Project or Anything Else. 😊😊
