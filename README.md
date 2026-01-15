@@ -1,17 +1,21 @@
 # 💫 Hi 👋, I'm Shani Gupta.
 **BTech (Biotech) 🎓 || Python 🐍 || AI/ML 🤖 || Bioinformatics 🧬 || Research  🧪 || FullStack Developer 👨🏻‍💻|| JavaScript 🌐 || Nextjs 💱 || MongoDB 📊**
 
-Email Me 👉 ✉️ **shanigupta8282com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shanigupta8282@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Shani Gupta
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+---
+
+## 🔍 Current Focus
+- 🔭 **Working on:** Bioinformatics & HealthTech-based web applications  
+- 🌱 **Learning:** Advanced Machine Learning, Genomics Data Analysis, System Design  
+- 👯 **Open to collaborate on:** AI/ML, Bioinformatics, Research Tools, Web Platforms  
+- 🤔 **Looking for help with:** Large-scale ML models & research-grade pipelines  
+- 💬 **Ask me about:** Python, AI/ML, Bioinformatics, Full-Stack Development  
+- 📫 **Reach me at:** **shanigupta8282@gmail.com**  
+- ⚡ **Fun fact:** I don’t switch domains—I connect them.
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
